@@ -1,8 +1,8 @@
 # 💄 J-BEAUTY Admin Studio (Sanity.io)
 
-J-BEAUTYのブランド、ニュース、会社情報を効率的に管理するための専用管理画面（CMS）です。
-J-BEAUTY의 브랜드, 뉴스, 회사 정보를 효율적으로 관리하기 위한 전용 어드민 스튜디오입니다.
-A dedicated admin studio for managing J-BEAUTY's brands, news, and company information.
+J-BEAUTYのブランド、ニュース、会社情報を効率的に管理するための専用管理画面（CMS）です。 <br/>
+J-BEAUTY의 브랜드, 뉴스, 회사 정보를 효율적으로 관리하기 위한 전용 어드민 스튜디오입니다.<br/>
+A dedicated admin studio for managing J-BEAUTY's brands, news, and company information.<br/>
 
 ---
 
