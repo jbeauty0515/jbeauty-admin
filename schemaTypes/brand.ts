@@ -31,7 +31,7 @@ export default defineType({
         list: [
           {title: 'Fragrance (フレグランス)', value: 'fragrance'},
           {title: 'Organic Cosmetics (オーガニックコスメ)', value: 'organic_cosmetics'},
-          // {title: 'Skin Care (スキンケア)', value: 'skin_care'},
+          // {title: 'Skin Care (スキンケア)', value: 'skin_care'}, 여기에 추가하시면 됩니다 : ) 
           // {title: 'Make Up (メイクアップ)', value: 'make_up'},
         ],
         layout: 'radio',
